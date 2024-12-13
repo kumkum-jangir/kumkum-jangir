@@ -47,12 +47,6 @@ Here’s a quick overview of my **GitHub activity**:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum-jangir&theme=radical)
 
-### GitHub Contribution Graph
-
-![Contribution Graph](https://github-readme-stats.vercel.app/api/gabriellesc/horizontal-stack?username=kumkum-jangir&show_icons=true&count_private=true&theme=radical)
-
----
-
 ## 🛠️ Projects on GitHub
 
 ### 1. [Devin-Resume](https://devinresume.com/)
