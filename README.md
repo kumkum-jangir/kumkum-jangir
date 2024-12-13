@@ -25,16 +25,19 @@ Here are the core technologies I specialize in:
 
 ## 🌟 Featured Projects
 
-### 1. [Endless][(https://github.com/kumkum-jangir/Endless](https://endless.a2logicgroup.com/))
+### 1. [Endless](https://github.com/kumkum-jangir/Endless)
 A powerful project management tool designed to simplify workflows and boost productivity. Developed using **ReactJS**, **Tailwind CSS**, and **Node.js**.
 
 ### 2. [ERP-Education | Student](https://github.com/kumkum-jangir/ERP-Education)
 A school management system designed to manage student data and enhance interaction through real-time communication features. Built with **ReactJS**, **Laravel**, and **MySQL**.
 
-### 3. [Chat App](https://github.com/kumkum-jangir/Chat-App)
+### 3. [Baba Ji Clubs](https://github.com/kumkum-jangir/Baba-Ji-Clubs)
+A community platform for managing clubs and groups. Features include user authentication, dynamic content management, and notifications. Built with **ReactJS**, **Node.js**, and **MongoDB**.
+
+### 4. [Chat App](https://github.com/kumkum-jangir/Chat-App)
 A real-time chat application with features like direct messaging, group chats, and notifications. Built using **ReactJS** and **Socket.IO**.
 
-### 4. [E-commerce Website](https://github.com/kumkum-jangir/E-commerce-Website)
+### 5. [E-commerce Website](https://github.com/kumkum-jangir/E-commerce-Website)
 A dynamic e-commerce website showcasing a full-fledged shopping experience. Built with **ReactJS**, **CSS**, **Bootstrap**, and **State Management** with **Hooks**.
 
 ## 📊 GitHub Stats
@@ -55,13 +58,13 @@ Here’s a quick overview of my **GitHub activity**:
 
 ## 🛠️ Projects on GitHub
 
-### 1. [Devin-Resume]([https://github.com/kumkum-jangir/Devin-Resume](https://devinresume.com/))
+### 1. [Devin-Resume](https://github.com/kumkum-jangir/Devin-Resume)
 A responsive and interactive **resume builder** that allows users to create and share their professional profiles. Built using **ReactJS**, **Redux**, and **Tailwind CSS**.
 
 ### 2. [DSA-FRONT-END](https://github.com/kumkum-jangir/DSA-FRONT-END)
 Front-end solution for displaying data structures and algorithms. Developed using **ReactJS** and **Tailwind CSS** for responsive design.
 
-### 3. [Endless Project Management]([https://github.com/kumkum-jangir/Endless](https://endless.a2logicgroup.com/))
+### 3. [Endless Project Management](https://github.com/kumkum-jangir/Endless)
 A task and project management app that boosts team productivity by organizing and tracking project progress. Built with **ReactJS** and **Node.js**.
 
 ---
